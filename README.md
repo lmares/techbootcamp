@@ -1,5 +1,5 @@
 techbootcamp
 
-## How do I force this conflict???
+# This is where I create the conflict
 
-I thought it wouldn't merge!
+This text should be different now.
